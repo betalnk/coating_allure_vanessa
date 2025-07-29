@@ -1,4 +1,4 @@
-# coating_allure_vanessa
+# coating_allure_vanessa (Vitaly Aleshin)
 Скрипт автоматически извлекает список автотестов и связанных с ними “блоков” (ключевых шагов) из Allure-отчета Vanessa Automation и формирует Excel-таблицу в структурированном виде
 
 Как должен лежать в проекте
